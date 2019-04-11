@@ -1,4 +1,5 @@
 Magento 2 Certification Badges
+---
 
 SVG version is not official.
 
